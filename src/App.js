@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import Router from "./router";
 
 import Hearder from './components/Hearder';
 import Search from './components/Search';
@@ -14,7 +15,7 @@ class App extends Component
     return(
       <div className="App" id="box">
         <Hearder />
-        <Search />
+        <Router />
       </div>
     );
   }
