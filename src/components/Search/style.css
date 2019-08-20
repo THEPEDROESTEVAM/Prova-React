@@ -1,0 +1,12 @@
+#card{
+    background-color: white;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+#img {
+    width: 250px;
+    height: auto;
+    margin: 10px;
+    border-radius: 10px;
+}
